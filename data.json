@@ -70,5 +70,14 @@
     "name":"Typo3 with PHP 70.3%   HTML 10.7%   TypoScript 6.3%   JavaScript 6.7%   CSS 6%",  
     "shortname":"Typo3 CMS",
     "website":"https://typo3.org/"
+  },
+    {
+    "bio":"Neos CMS is an open-source content management system based on Flow",
+    "star":"",  
+    "github":"https://github.com/neos",
+    "image":"https://sandstorm.de/_Resources/Persistent/4fa6c23cd9746b923eb4cea0577c5500fa74b4b2/neos_avatar_primary.svg",
+    "name":"Typo3 with PHP 77.6%   HTML 9.7%   JavaScript 6.7%   CSS 6%",  
+    "shortname":"Neos CMS",
+    "website":"https://neos.io/"
   }
 ]
